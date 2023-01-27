@@ -2,18 +2,17 @@
 //Console.WriteLine("Hello, World!");
 
 
-// С клавиатуры вводятся два числа. Найти и вывести на экран максимальное из них
-int a,b,max;
-Console.WriteLine("Введите a: ");
-a=Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите число b: ");
-b=Convert.ToInt32(Console.ReadLine());
-if (a>b)
-{
-  max=a;
-}
-else
-{
-  max=b;
-}
-System.Console.WriteLine($"max={max}");
+//2. С клавиатуры вводятся два вещественных числа. Проверять является ли одно из них квадратом второго
+
+double a,b;
+string s;
+s=Console.ReadLine();
+a=Convert.ToDouble(s);
+s=Console.ReadLine();
+b=Convert.ToDouble(s);
+
+if (a*a==b)    
+    System.Console.WriteLine("b является квадратом a");
+if (b*b==a)    
+    System.Console.WriteLine("a является квадратом b");
+
