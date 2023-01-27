@@ -1,8 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
-
-
-// С клавиатуры вводится целое число. Вывести квадрат числа
+﻿//1. С клавиатуры вводится целое число. Вывести квадрат числа
 
 checked
 {

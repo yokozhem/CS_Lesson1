@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
-
-// 4. По заданному с клавиатуры номеру дня недели вывести его название
+﻿// 4. По заданному с клавиатуры номеру дня недели вывести его название
 
 int number;
 Console.WriteLine("Введите число от 1 до 7");

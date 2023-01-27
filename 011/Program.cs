@@ -1,8 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
-
-
-//11. Дано число больше 9. Вывести на экран  вторую цифру числа с конца
+﻿//11. Дано число больше 9. Вывести на экран  вторую цифру числа с конца
 
 int n=123;
 int d0,d1,d2;

@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Console.WriteLine("Hello, World!");
-
-// С клавиатуры вводятся два числа. Найти и вывести на экран их сумму
+﻿// С клавиатуры вводятся два числа. Найти и вывести на экран их сумму
 
 int a,b,sum;
 Console.WriteLine("Введите a: ");

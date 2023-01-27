@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
-
-//5. С клавиатуры вводятся три числа. Найти максимальное из трех чисел
+﻿//5. С клавиатуры вводятся три числа. Найти максимальное из трех чисел
 
 int a, b, c, max;
 System.Console.WriteLine("Введите число a: ");
